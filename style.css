@@ -1,0 +1,29 @@
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+#defination{
+    display: flex;
+    gap:50px;
+    justify-content: center;
+    background-color: rgb(192, 246, 246);
+    border-radius: 50px;
+    box-shadow: 5px 10px #888888;
+    box-sizing: border-box;
+}
+
+.head{
+    margin-left: 120px;
+  
+}
+
+#details{
+    margin-top: 60px;
+}
+b{
+    font-size: 30px;
+}
+p{
+    font-size: 12px;
+}
